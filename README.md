@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/99/9f/cb/999fcbae1de100959ae82978434f9bbb.gif" height="60" width="100"/>
+<img src="https://i.pinimg.com/originals/99/9f/cb/999fcbae1de100959ae82978434f9bbb.gif" height="120" width="240"/>
 
 **ストレスのノルマは、誰かの沈黙のためではなく、銀行残高のために貯めておきましょう。**
 </div>  
