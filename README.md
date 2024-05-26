@@ -61,6 +61,6 @@ $init->start();
 [![Burp Suite](https://img.shields.io/badge/Pen_Test-Burp_Suite-informational?style=flat&logo=burp-suite&logoColor=white&color=FF6F61)](https://portswigger.net/burp)
 [![Wireshark](https://img.shields.io/badge/Pen_Test-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=1679A7)](https://www.wireshark.org/)
 [![OWASP ZAP](https://img.shields.io/badge/Pen_Test-OWASP_ZAP-informational?style=flat&logo=owasp&logoColor=white&color=2E2E2E)](https://www.zaproxy.org/)
-[![sqlmap](https://img.shields.io/badge/Pen_Test-sqlmap-informational?style=flat&logo=python&logoColor=white&color=306998)](http://sqlmap.org/)
+[![sqlmap](https://img.shields.io/badge/Pen_Test-sqlmap-informational?style=flat&logo=python&logoColor=white&color=306998)](https://sqlmap.org/)
 
 <div align="center"><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ortod0x&locale=en&show_icons=true&bg_color=ffffff&title_color=008082&text_color=223&icon_color=ff8ba7" align="center" /></div>  
